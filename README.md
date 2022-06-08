@@ -23,6 +23,6 @@ modified Midpoint)
 - Clipping algorithms using Square as Clipping Window[Point ,Line]
 - Clipping algorithms using circle as Clipping Window[Point ,Line]
 
-![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/1.JPG?raw=true)
-![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/2.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Graphics-Project/blob/master/screee1.gif?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Graphics-Project/blob/master/screen2.gif?raw=true)
 
