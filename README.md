@@ -1,5 +1,5 @@
 # Graphic Project
-<h1> Team </h1>
+Team :
 1- Ahmed Sayed Hassan Youssef => midosayed1762001@gmail.com   <tr> github => https://github.com/Mido1762001 <br>
 2-  Khaled Ashraf hanafy Mahmoud =>  5aleda4rf@gmail.com        github => https://github.com/KhaledAshraf74 <br> 
 3-  Ahmed Ibrahim => ahmedibrahim55518@gmail.com    github => https://github.com/Ahmed-Ibrahim-30 <br> 
