@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654692019 source:e:\graphicproject\main.cpp
+	<Windows.h>
+	<iostream>
+	<string>
+	<cstdio>
+	<fstream>
+	<vector>
+	<tchar.h>
+	<math.h>
+	<wchar.h>
+	<stack>
+	<cstdlib>
+	<list>
+
