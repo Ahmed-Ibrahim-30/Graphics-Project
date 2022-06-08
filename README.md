@@ -1,10 +1,10 @@
 # Graphic Project
-Team :
-1- Ahmed Sayed Hassan Youssef => midosayed1762001@gmail.com   <tr> github => https://github.com/Mido1762001 <br>
-2-  Khaled Ashraf hanafy Mahmoud =>  5aleda4rf@gmail.com        github => https://github.com/KhaledAshraf74 <br> 
-3-  Ahmed Ibrahim => ahmedibrahim55518@gmail.com    github => https://github.com/Ahmed-Ibrahim-30 <br> 
-4-  Samaa Khalifa Elsayed =>  samaakhalifa93@gmail.com      github => https://github.com/SamaaKhalifa <br> 
-5-  Noura Ashraf AbdElnaby => nourraasshhraf@gmail.com      github =>  https://github.com/NouraAshraff<br> 
+Team :<br>
+- Ahmed Sayed Hassan Youssef => midosayed1762001@gmail.com   <tr> github => https://github.com/Mido1762001 <br>
+-  Khaled Ashraf hanafy Mahmoud =>  5aleda4rf@gmail.com        github => https://github.com/KhaledAshraf74 <br> 
+-  Ahmed Ibrahim => ahmedibrahim55518@gmail.com    github => https://github.com/Ahmed-Ibrahim-30 <br> 
+-  Samaa Khalifa Elsayed =>  samaakhalifa93@gmail.com      github => https://github.com/SamaaKhalifa <br> 
+-  Noura Ashraf AbdElnaby => nourraasshhraf@gmail.com      github =>  https://github.com/NouraAshraff<br> 
 
 <h1> All Features : </h1>
 - Change the background of window to be white
