@@ -6,7 +6,7 @@
 4-  Samaa Khalifa Elsayed => samaakhalifa93@gmail.com           github => **https://github.com/SamaaKhalifa** <br> 
 5-  Noura Ashraf AbdElnaby => nourraasshhraf@gmail.com          github => ** https://github.com/NouraAshraff** <br> 
 
-All Features:
+<h1> All Features : </h1>
 - Change the background of window to be white
 - Try to change the shape of your window mouse
 - User must interact with window using mouse only 
