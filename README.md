@@ -1,9 +1,9 @@
 # Graphic Project
-20190034 => Ahmed Sayed Hassan Youssef => midosayed1762001@gmail.com  github => **https://github.com/Mido1762001** <br> 
-20190186 => Khaled Ashraf hanafy Mahmoud => 5aleda4rf@gmail.com       github => <a href="https://github.com/KhaledAshraf74"></a>
-20190062 => Ahmed Mohamed Elsayed Ibrahim => 20190062@stud.fci-cu.edu.eg   github => <a href="https://github.com/Ahmed-Ibrahim-30"></a>
-20190247 => Samaa Khalifa Elsayed => samaakhalifa93@gmail.com         github => <a href="https://github.com/SamaaKhalifa"></a>
-20190592 => Noura Ashraf AbdElnaby => nourraasshhraf@gmail.com        github => <a href="https://github.com/NouraAshraff"></a>
+20190034 => Ahmed Sayed Hassan Youssef => midosayed1762001@gmail.com   github => **https://github.com/Mido1762001** <br>  
+20190186 => Khaled Ashraf hanafy Mahmoud => 5aleda4rf@gmail.com       github => **https://github.com/KhaledAshraf74** <br> 
+20190062 => Ahmed Mohamed Elsayed Ibrahim => ahmedibrahim55518@gmail.com github => **https://github.com/Ahmed-Ibrahim-30** <br> 
+20190247 => Samaa Khalifa Elsayed => samaakhalifa93@gmail.com         github => **https://github.com/SamaaKhalifa** <br> 
+20190592 => Noura Ashraf AbdElnaby => nourraasshhraf@gmail.com        github => ** https://github.com/NouraAshraff** <br> 
 
 All Features:
 - Change the background of window to be white
