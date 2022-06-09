@@ -1,6 +1,4 @@
 ```diff
-- text in red
-+ text in green
 @@ text in purple (and bold)@@
 ```
 
