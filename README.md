@@ -1,13 +1,12 @@
 # Graphic Project
 # *Team* :<br>
-- <span style="color: red"> Some green text </span>
 -  **Ahmed Sayed Hassan Youssef** => midosayed1762001@gmail.com   <tr> github => https://github.com/Mido1762001 <br>
 -  **Khaled Ashraf hanafy Mahmoud** =>  5aleda4rf@gmail.com        github => https://github.com/KhaledAshraf74 <br> 
 -  **Ahmed Ibrahim**  => ahmedibrahim55518@gmail.com    github => https://github.com/Ahmed-Ibrahim-30 <br> 
 -  **Samaa Khalifa Elsayed** =>  samaakhalifa93@gmail.com      github => https://github.com/SamaaKhalifa <br> 
 -  **Noura Ashraf AbdElnaby** => nourraasshhraf@gmail.com      github =>  https://github.com/NouraAshraff<br> 
 
-# All Features : 
+# *All Features* : 
 - Change the background of window to be white
 - Try to change the shape of your window mouse
 - User must interact with window using mouse only 
