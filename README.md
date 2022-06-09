@@ -1,8 +1,10 @@
-
+```diff
+@@ text in purple (and bold)@@
+```
 
 # Graphic Project
 # *Team* :<br>
-- ```diff 
+```diff 
 @@ Ahmed Sayed Hassan Youssef (and bold)@@ 
 ```
 -  **Ahmed Sayed Hassan Youssef** => midosayed1762001@gmail.com   <tr> github => https://github.com/Mido1762001 <br>
